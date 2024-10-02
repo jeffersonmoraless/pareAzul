@@ -1,0 +1,11 @@
+{
+  "name": "pareAzul",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jeffersonmoraless/pareAzul.git",
+  "author": "jeffersonmoraless <gimorales170607@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.4.1"
+  }
+}
